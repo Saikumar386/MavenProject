@@ -7,4 +7,8 @@ public class service {
 		//hgh
 		System.out.println("service.service()");
 	}
+	public void m2()
+	{
+		System.out.println("service.m2()");
+	}
 }
